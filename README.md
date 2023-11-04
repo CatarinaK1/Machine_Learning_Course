@@ -9,7 +9,7 @@ In this course we learn the basics of machine learning utilizing python as the c
 - Topic detection, regular expressions, Natural Language Processing (NLP)  
 - Sentiment analysis (NLP again)
 
-## Installation  
+# Installation  
 
 ### Python  
 
@@ -21,7 +21,7 @@ If it is not already installed, download and install Python from the official we
 pip install notebook
 ```
 
-### Necessary Python Libraries  
+## Necessary Python Libraries  
 We utilize the following libraries in this project:  
 
 **Pandas**  
