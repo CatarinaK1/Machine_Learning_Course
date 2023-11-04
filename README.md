@@ -6,8 +6,8 @@ In this course we learn the basics of machine learning utilizing python as the c
 
 - Supervised learning, knn algorithm as an example  
 - Unsupervised learning, k-means algorithm as an example  
-- topic detection, regular expressions, Natural Language Processing (NLP)  
-- sentiment analysis (NLP again)
+- Topic detection, regular expressions, Natural Language Processing (NLP)  
+- Sentiment analysis (NLP again)
 
 ## Installation  
 
