@@ -9,40 +9,43 @@ In this course we learn the basics of machine learning utilizing python as the c
 - topic detection, regular expressions, Natural Language Processing (NLP)  
 - sentiment analysis (NLP again)
 
-## Installation 
+## Installation  
 
-### Python
+### Python  
 
-If it is not already installed, download and install Python from the official website (https://www.python.org/).
+If it is not already installed, download and install Python from the official website (https://www.python.org/).  
 
-### Jupyter Notebook
- You should have Jupyter Notebook installed. If you don't have it, you can install it using Python's package manager, pip, with the following command:
-  ```
-  pip install notebook
-  ```
+### Jupyter Notebook  
+ You should have Jupyter Notebook installed. If you don't have it, you can install it using Python's package manager, pip, with the following command:  
+ ```
+pip install notebook
+```
 
-### Necessary Python Libraries
-We utilize the following libraries in this project:
+### Necessary Python Libraries  
+We utilize the following libraries in this project:  
 
-**Pandas**
-  ```
+**Pandas**  
+```
 pip install pandas
-  ``
+```
 
-**Matplotlib**
-  ```
+**Matplotlib**  
+
+```
 pip install matplotlib
-  ```
+```
 
-**Numpy**
-  ```
+**Numpy**  
+
+```
 pip install numpy
-  ```
+```
 
 
-**Scikit-learn**
-  ```
-  pip install -U scikit-learn
+**Scikit-learn**  
+
+ ```
+ pip install -U scikit-learn
  ```
 
 
