@@ -1,4 +1,4 @@
-# Supervised-Learning-kNN-Algorithm
+# Machine Learning utilizing the kNN algorithm
 
 This is a collection the assignments completed for the Predictive Analytics with Python 5cr.  
 
