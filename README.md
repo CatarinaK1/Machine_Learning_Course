@@ -1,4 +1,4 @@
-# Machine Learning utilizing the kNN algorithm
+# Machine Learning with Python
 
 This is a collection the assignments completed for the Predictive Analytics with Python 5cr.  
 
