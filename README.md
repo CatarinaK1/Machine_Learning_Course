@@ -48,6 +48,10 @@ pip install numpy
  pip install -U scikit-learn
  ```
 
+**nltk**  
+```  
+pip install nltk
+```  
 
 
 
