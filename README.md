@@ -53,6 +53,7 @@ pip install numpy
 pip install nltk
 ```  
 
-
-
-
+**Spacy**
+```  
+pip install -U spacy
+```  
