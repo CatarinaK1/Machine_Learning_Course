@@ -1,4 +1,4 @@
-# Machine Learning utilizing the kNN algorithm
+# Machine Learning with Python
 
 This is a collection the assignments completed for the Predictive Analytics with Python 5cr.  
 
@@ -48,7 +48,13 @@ pip install numpy
  pip install -U scikit-learn
  ```
 
+**nltk**  
+```  
+pip install nltk
+```  
 
-
-
-
+**Spacy**
+```  
+pip install -U spacy
+python -m spacy download en_core_web_sm
+```  
